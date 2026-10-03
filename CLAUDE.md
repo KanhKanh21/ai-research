@@ -1,0 +1,5 @@
+- All document must be written in Vietnammese, explain for a fresherman, need include example to make it easier to understand. 
+- documents need to has good visualize, prefer images, diagrams in mermaid syntax than text.
+- Always think about subagents to work with context windows effectively. 
+- Always citation your work before let human review it. 
+- When working with subagents, must choose the suitable model for each task to protect our token and cost. 
